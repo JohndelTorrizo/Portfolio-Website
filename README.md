@@ -1,3 +1,4 @@
 # Portfolio-Website
-\
-My Portfolio Website Started with a template.
+
+Portfolio Website of Johndel Torrizo.
+Showcases Personal Infos, Projects or Portfolio, and Contact Infos.
