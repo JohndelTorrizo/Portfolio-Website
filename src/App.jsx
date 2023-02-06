@@ -27,7 +27,7 @@ const siteProps = {
   name: "Johndel Patrick Torrizo",
   title: "Mechatronics Engineering Student & Aspiring Software Dev",
   email: "johndeltorrizo@gmail.com",
-  gitHub: "https://github.com/JohndelTorrizo",
+  gitHub: "JohndelTorrizo",
   instagram: "",
   linkedIn: "",
   medium: "",
