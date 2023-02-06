@@ -29,10 +29,10 @@ const siteProps = {
   email: "johndeltorrizo@gmail.com",
   gitHub: "JohndelTorrizo",
   instagram: "",
-  linkedIn: "",
-  medium: "",
-  twitter: "",
-  youTube: "",
+  linkedIn: "johndel-patrick-torrizo",
+  medium: "johndeltorrizo",
+  twitter: "johnd_pat",
+  youTube: "@johndeltorrizo",
 };
 
 const primaryColor = "#4E567E";
