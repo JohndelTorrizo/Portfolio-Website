@@ -12,7 +12,7 @@ const Header = () => {
       style={{
         position: "fixed",
         display: "flex",
-        justifyContent: "center",
+        justifyContent: "right",
         gap: "2rem",
         background: "rgba(255,255,255,0.75)",
         padding: "1rem",
