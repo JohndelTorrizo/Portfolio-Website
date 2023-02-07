@@ -16,7 +16,6 @@ const Header = () => {
         gap: "2rem",
         background: "rgba(255,255,255,0.75)",
         padding: "1rem",
-        paddingLeft: "2rem",
         top: 0,
         width: "100vw",
         zIndex: 10,
