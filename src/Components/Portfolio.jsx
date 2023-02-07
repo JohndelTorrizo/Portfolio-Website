@@ -28,40 +28,40 @@ import React from "react";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "WIP",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "WIP",
+    url: "WIP",
   },
   {
-    title: "Web Development for Beginners",
+    title: "WIP",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "WIP",
     url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "WIP",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "WIP",
+    url: "",
+  },
+  {
+    title: "WIP",
+    description:
+      "WIP.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "WIP",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "WIP.",
+    url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "WIP",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "WIP",
+    url: "",
   },
 ];
 
