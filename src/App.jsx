@@ -28,9 +28,7 @@ const siteProps = {
   title: "Mechatronics Engineering Student & Aspiring Software Dev",
   email: "johndeltorrizo@gmail.com",
   gitHub: "JohndelTorrizo",
-  instagram: "",
   linkedIn: "johndel-patrick-torrizo",
-  medium: "johndeltorrizo",
   twitter: "johnd_pat",
   youTube: "@johndeltorrizo",
 };
