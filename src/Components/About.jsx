@@ -65,20 +65,6 @@ const About = () => {
         <h2>About Myself</h2>
         <p className="large">{description}</p>
         <hr />
-        <ul
-          style={{
-            textAlign: "left",
-            columns: 2,
-            fontSize: "1.25rem",
-            margin: "2rem 3rem",
-            gap: "3rem",
-          }}
-        >
-          {skillsList.map((skill) => (
-            <li key={skill}>{skill}</li>
-          ))}
-        </ul>
-        <hr />
         <p style={{ padding: "1rem 3rem 0" }}>{detailOrQuote}</p>
       </div>
     </section>
