@@ -12,11 +12,11 @@ const Header = () => {
       style={{
         position: "fixed",
         display: "flex",
-        justifyContent: "right",
+        justifyContent: "center",
         gap: "2rem",
         background: "rgba(255,255,255,0.75)",
         padding: "1rem",
-        paddingRight: "2rem",
+        paddingRight: "1rem",
         top: 0,
         width: "100vw",
         zIndex: 10,
